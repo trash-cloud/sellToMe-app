@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SellMe</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Contacts</string>
+    <string name="about_text">About</string>
+    <string name="main_scene_text">Main Page</string>
+    <string name="sell">SelltO</string>
+    <string name="me">Me</string>
+    <string name="services">Services</string>
+    <string name="course_start_date">Initial Price:</string>
+    <string name="course_exterior">Exterior:</string>
+    <string name="minimal_wear">Minimal Wear</string>
+    <string name="one9999">1999 $</string>
+</resources>
